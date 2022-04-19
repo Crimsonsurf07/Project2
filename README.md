@@ -33,4 +33,5 @@ Run "npm i" from root directory.  Run "npm start" to start the webserver.
 ## Screenshot
 
 
-![screenshot of application](./public/assets/images/screencapture01.png)
+![screencapture01](https://user-images.githubusercontent.com/73037339/164074412-4d9913cd-a565-4095-9b6c-ee7bea5c4d71.png)
+
