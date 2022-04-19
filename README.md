@@ -9,7 +9,7 @@ Created a full-stack web app that allows users to log the destinations they have
 [Link to webiste](travel-log-3000.herokuapp.com)
 
 
-[Link to Github repo](https://github.com/adambowers09/project2)
+[Link to Github repo](https://github.com/Crimsonsurf07/project2)
 
 
 
