@@ -6,7 +6,7 @@ Created a full-stack web app that allows users to log the destinations they have
 
 ## Live Application & GitHub Link
 
-[Link to webiste](travel-log-3000.herokuapp.com)
+[Link to website](travel-log-3000.herokuapp.com)
 
 
 [Link to Github repo](https://github.com/Crimsonsurf07/project2)
